@@ -13,3 +13,6 @@
 "Fundamentos de redes y el manejo de sistemas operativos"
 
 "// Nuevo contenido//"
+" ¿Que me gustaria construir con ella?"
+
+"Algo innovador para ayudar a las personas"
