@@ -7,3 +7,7 @@
 " ¿Por que me interesa?
 
 "Porque me gustaria ayudar a las personas"
+
+"¿Que necesito aprender primero"
+
+"Fundamentos de redes y el manejo de sistemas operativos"
